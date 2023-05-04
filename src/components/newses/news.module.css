@@ -1,0 +1,19 @@
+.block_news {
+    width: 500px;
+    background-color: chocolate;
+    border-radius: 32px;
+}
+.block_news h2{
+  font-size: 30px;
+  background-color: brown;
+  border-radius: 20px;
+}
+p{
+  font-size: 23px;
+  border-radius: 12px;
+  background-color: blue;
+}
+span {
+  font-size: 20px;
+  background-color: crimson;
+}

@@ -1,0 +1,61 @@
+.form {
+  width: 500px;
+  background-color: #378d30;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 12px;
+}
+.register_one > label{
+  color: azure;
+  padding: 30px;
+}
+.register_two > label{
+  padding: 30px;
+  color: azure;
+}
+.register_one > input{
+  margin-left: 11px;
+  margin-top: 12px;
+  border-radius: 12px;
+  border: 1px solid #ffaa00;
+  background: #d8b8b8;
+  padding: 12px;
+}
+.register_one {
+  padding-top: 30px;
+  padding-left: 39px;
+}
+.register_two > input{
+  margin-left: 84px;
+  margin-top: 12px;
+  border-radius: 12px;
+  border: 1px solid #ffaa00;
+  background: #d8b8b8;
+  padding: 12px;
+}
+.button_register {
+    margin: 31px 171px;
+    color: coral;
+    background: black;
+    padding: 14px 34px;
+    border-radius: 12px;
+    border: 1px solid orange;
+}
+.register_two {
+  padding-top: 20px;
+  padding-left: 39px;
+}
+.text{
+    text-align: center;
+    font-size: 66px;
+    font-weight: 200;
+    font-family: cursive;
+    margin-top: 37px;
+}
+.error_register{
+  font-size: 20px;
+  color: red;
+  font-family: cursive;
+  margin-top: 20px;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+.profile img{
+  width: 150px;
+  height: 150px;
+  border-radius: 105px;
+  margin: 50px;
+}
+.profile h1{
+   font-size: 35px;
+   font-family: sans-serif;
+}
+.profile h2{
+  font-size: 20px;
+}
+.profile p{
+  font-size: 15px;
+}
+.profile button{
+  background-color: brown;
+  color: black;
+  border-radius: 12px;
+  padding: 12px 16px;
+}
+.profile{
+  display: flex;
+  margin: 60px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+}

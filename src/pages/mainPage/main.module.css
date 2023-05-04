@@ -1,0 +1,14 @@
+.main_page h1{
+  font-size: 40px;
+  text-align: center;
+}
+.main_page p {
+  color: whitesmoke;
+  background: forestgreen;
+  text-align: center;
+}
+.main_page span {
+    font-size: 50px;
+    background-color: crimson;
+    border-radius: 12px;
+}
